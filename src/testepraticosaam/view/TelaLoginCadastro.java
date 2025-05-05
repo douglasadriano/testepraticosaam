@@ -65,7 +65,7 @@ public class TelaLoginCadastro extends JFrame {
     private void criarPainelLogin() {
         painelLogin = criarPainelBase();
 
-        JLabel lblTitulo = new JLabel("Bem-vindo");
+        JLabel lblTitulo = new JLabel("LOGIN");
         lblTitulo.setFont(new Font("Segoe UI", Font.BOLD, 26));
         lblTitulo.setAlignmentX(Component.CENTER_ALIGNMENT);
         lblTitulo.setForeground(new Color(0, 102, 204));

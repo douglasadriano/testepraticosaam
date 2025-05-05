@@ -1,4 +1,3 @@
-
 package testepraticosaam.view;
 
 import java.awt.BorderLayout;
